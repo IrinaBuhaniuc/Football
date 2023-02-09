@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello everyone!"
-echo "Hi"
+echo "I play football"
