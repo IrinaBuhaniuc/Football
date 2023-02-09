@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello everyone"
+echo "Hello everyone!"
+echo "Hi"
